@@ -25,7 +25,9 @@
 
 - ⚡ Fun fact **"I find data puzzles fascinating!"**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :
+  <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="20px" width="20px" style="position: relative; top: 3px;">
+</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lokitha-r-b69393259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokitha-r-b69393259" height="30" width="40" /></a>
 <a href="https://github.com/Lokitha03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="lokitha03" height="30" width="40" /></a>
